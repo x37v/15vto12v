@@ -10,3 +10,8 @@ Based on design by [mangros](https://www.muffwiggler.com/forum/viewtopic.php?t=1
 * 1 L7912
 * 1 L7805
 * connectors as needed
+
+
+## Oshpark link
+
+[https://oshpark.com/shared_projects/xNlaxGj8](https://oshpark.com/shared_projects/xNlaxGj8)
